@@ -1,0 +1,1 @@
+The "Networking Basics" course at Holberton is a foundational introduction to computer networking. Throughout this course, students explore essential concepts, protocols, and technologies that underpin data communication in computer networks.
